@@ -13,5 +13,5 @@ Following the data wrangling, EDA, and preprocessing, our final model uses a ran
 
 <p align="center">
 Feature Importance: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JeYiOW2.png" height="80%" width="80%" alt="feature importance"/>
 <br />
